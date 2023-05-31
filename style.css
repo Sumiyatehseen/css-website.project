@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+.btn-container {
+    margin: auto;
+    height: 44px;
+    width: 166px;
+
+}
+
+a:active {
+    color: #b69513;
+}
+
+body {
+    background-color: orange;
+}
+
+button {
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    cursor: pointer;
+    border: none;
+    padding: 8px;
+    font-size: 20px;
+    background: linear-gradient(141deg, #ffd323 0%, #79a10a 51%, #4bbb0a 75%);
+    color: white;
+    font-family: cursive;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Raleway', monospace;
+    font-size: 20px;
+    color: white;
+}
